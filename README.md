@@ -6,7 +6,4 @@ João Carlos Orban dos Santos - 818117293
 
 Victor Goulart de Souza - 821143498
 
-video:
-
-usu-clusterip
-beventos-service
+link do video:
