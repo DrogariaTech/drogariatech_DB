@@ -96,7 +96,7 @@ app.post("/usuarios", async (req,res)=>{
     //
 
     try{
-        axios.post("http://192.168.0.26:10000/eventos",{
+        axios.post("http://beventos-service:10000/eventos",{
             tipo: "USU evento POST"
         })
     }catch(err){
